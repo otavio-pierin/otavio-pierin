@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">👩‍💻 Bachelor of Information Systems 3/8<br>📘Systems Development technical course 3/3<br>📢English - Level B2</p>
+<p align="center">👩‍💻 Bachelor of Information Systems 4/8<br>📘Systems Development technical course 3/3<br>📢English - Level B2</p>
 
 ###
 
